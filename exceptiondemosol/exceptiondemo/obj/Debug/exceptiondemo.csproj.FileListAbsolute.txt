@@ -1,0 +1,7 @@
+C:\Users\ril\source\repos\exceptiondemosol\exceptiondemo\bin\Debug\exceptiondemo.exe.config
+C:\Users\ril\source\repos\exceptiondemosol\exceptiondemo\bin\Debug\exceptiondemo.exe
+C:\Users\ril\source\repos\exceptiondemosol\exceptiondemo\bin\Debug\exceptiondemo.pdb
+C:\Users\ril\source\repos\exceptiondemosol\exceptiondemo\obj\Debug\exceptiondemo.csprojAssemblyReference.cache
+C:\Users\ril\source\repos\exceptiondemosol\exceptiondemo\obj\Debug\exceptiondemo.csproj.CoreCompileInputs.cache
+C:\Users\ril\source\repos\exceptiondemosol\exceptiondemo\obj\Debug\exceptiondemo.exe
+C:\Users\ril\source\repos\exceptiondemosol\exceptiondemo\obj\Debug\exceptiondemo.pdb
